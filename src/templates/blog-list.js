@@ -53,7 +53,7 @@ export const blogListQuery = graphql`
   }
 `
 const Pagination = (props) => (
-  <div 
+  <div
     className="pagination"
     sx={styles.pagination}
   >
@@ -87,10 +87,10 @@ const Pagination = (props) => (
 )
 class BlogIndex extends React.Component {
   render() {
-    
+
     const { data } = this.props
     const { currentPage, numPages } = this.props.pageContext
-    const blogSlug = '/blog/' 
+    const blogSlug = '/blog/'
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
     const prevPage = currentPage - 1 === 1 ? blogSlug : blogSlug + (currentPage - 1).toString()
@@ -110,7 +110,7 @@ class BlogIndex extends React.Component {
       isLast,
       nextPage
     }
-    
+
     return (
       <Layout className="blog-page">
         <SEO

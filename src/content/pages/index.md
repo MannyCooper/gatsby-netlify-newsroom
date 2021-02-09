@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: 异次元の机智君
+tagline: Coder, Designer
+featuredImage: /assets/portrait.png
 cta:
-  ctaText: Know more
+  ctaText: 了解更多
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+💻｜🎨｜🎮｜⚡️

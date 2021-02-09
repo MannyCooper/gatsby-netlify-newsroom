@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "异次元电台",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "安子璠的个人主页",
     "siteUrl": "https://foundation.stackrole.com",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
