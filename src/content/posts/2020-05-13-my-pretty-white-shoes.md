@@ -4,7 +4,7 @@ title: 一日一技？「扩展」并重新认识 macOS 控制中心
 slug: /gaming-extravaganza
 date: 2020-05-13 12:55
 description: 「扩展」、细节、键盘快捷键支持和一些杂谈
-featuredImage: "https://cdn.sspai.com/2020/12/29/e8413b09a7a6df2dd035fe64782f9e20.png"
+featuredImage: /assets/e8413b09a7a6df2dd035fe64782f9e20-1.png
 ---
 
 <p><article class="message message-immersive is-info">
